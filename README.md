@@ -1,2 +1,2 @@
 # Leetcode-DSA-Question
-Leetcode daily challenge solution 
+This repository contain the solution of LeetCode Daily Challenge. I would be using C++ for solvinf the problems.
